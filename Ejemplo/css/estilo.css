@@ -1,0 +1,39 @@
+body {
+    background-image: url("../imagenes/MáquinaDeDios.png");
+    background-size: cover;
+    text-align: center;
+}
+h1 {
+    text-align: center;
+    font-family: verdana, Geneva, Tahona, sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 25pt;
+    color: yellow;
+}
+p {
+    letter-spacing: 10px;
+    color: red;
+}
+div {
+    text-align: center;
+}
+h2 em{
+    color: orange;
+}
+p em {
+    color: green;
+}
+p strong {
+    color: brown;
+}
+p strong em{
+    color: blue;
+}
+div h3{
+    color: brown;
+}
+div img{
+    width: 10%;
+    height: 10%;
+}

@@ -1,0 +1,45 @@
+body {
+    background-color: lemonchiffon;
+}
+
+h1 {
+    text-align: center;
+    color: darkgreen;
+}
+
+h2 {
+    text-align: center;
+    color: darkgreen;
+}
+
+h3 {
+    text-align: center;
+    color: darkgreen;
+}
+
+center img {
+    width: 90%;
+}
+
+p{
+    text-align: justify;
+    font-size: 15pt;
+    color: gray;
+}
+
+div img{
+    width: 40%;
+}
+
+.div1{
+    text-align: center;
+}
+
+.div2{
+    text-align: center;
+}
+
+p a{
+    font-size: 18pt;
+    color: orange;
+}
